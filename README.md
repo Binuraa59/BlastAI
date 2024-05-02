@@ -1,1 +1,1 @@
-# Full code set for fine tune LLM for mining engineering industry
+## Complete code set for a fine-tuned Mistral 7b LLM tailored to the mining engineering industry
